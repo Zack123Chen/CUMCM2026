@@ -1,0 +1,6 @@
+﻿,dtype,missing_count,missing_rate,unique_count,mean,std,min,max
+name,str,0,0.0,4,,,,
+age,int64,0,0.0,4,57.0,79.94373021069256,20.0,200.0
+score,float64,1,0.2,3,83.75,9.394147114027968,76.0,95.0
+date,str,0,0.0,4,,,,
+height_cm,int64,0,0.0,4,172.2,5.215361924162119,168.0,180.0

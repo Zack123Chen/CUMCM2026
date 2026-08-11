@@ -1,0 +1,6 @@
+﻿column,operation
+name,删除重复记录
+age,异常值200设为缺失后使用中位数填充
+score,缺失值使用中位数填充
+date,转换为datetime类型
+height_cm,无处理
