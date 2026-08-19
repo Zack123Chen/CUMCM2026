@@ -21,3 +21,5 @@ def data_check(df):
     duplicate_count = df.duplicated().sum()
     
     return report, duplicate_count
+
+    

@@ -1,13 +1,46 @@
-# Python cache
+# =========================
+# Python
+# =========================
 __pycache__/
 *.py[cod]
 
-# macOS
-.DS_Store
-
-# Jupyter
-.ipynb_checkpoints/
-
+# =========================
 # Virtual environment
+# =========================
 .venv/
 venv/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# LaTeX build files
+# =========================
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+
+# Bibliography temporary files
+*.bbl
+*.blg
+
+# =========================
+# Editor temporary files
+# =========================
+*.swp
+*.tmp
+*~
